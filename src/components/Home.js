@@ -1,10 +1,10 @@
+import { HomeHeaderH2} from "../styles/Home.styles";
 
 
 const Home = () => {
     return ( 
-        <div>
-            Overview of all the projects 
-        </div>
+       <HomeHeaderH2>Afgeronde projecten</HomeHeaderH2>
+
      );
 }
  
